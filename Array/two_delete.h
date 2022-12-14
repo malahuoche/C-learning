@@ -6,11 +6,9 @@
 #define C_LEARNING_TWO_DELETE_H
 
 
-
 class two_delete {
 
 };
-
 
 
 #endif //C_LEARNING_TWO_DELETE_H
