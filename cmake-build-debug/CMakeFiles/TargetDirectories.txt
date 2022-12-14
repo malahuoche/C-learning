@@ -1,0 +1,3 @@
+/Users/dongcan/CLionProjects/C-learning/cmake-build-debug/CMakeFiles/C_learning.dir
+/Users/dongcan/CLionProjects/C-learning/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dongcan/CLionProjects/C-learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
